@@ -3,7 +3,8 @@ header {
 }
 
  #introtext {
-   margin: 0rem 5rem;
+   max-width: 700px;
+   margin: auto;
  }
 body {
   background-color: #b3e5fc;

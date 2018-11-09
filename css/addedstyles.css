@@ -1,0 +1,15 @@
+header {
+  text-align: center;
+}
+
+ #introtext {
+   margin: 0rem 5rem;
+ }
+body {
+  background-color: #b3e5fc;
+  color: #000;
+}
+
+img {
+  margin-bottom: 2rem;
+}
